@@ -1,2 +1,1 @@
-# first-pwa
-PWA Project
+# a74-pwa
